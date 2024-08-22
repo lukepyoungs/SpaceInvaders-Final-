@@ -1,6 +1,6 @@
 # 👾 Space Invaders - Final Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/lukepyoungs/SpaceInvaders-Final?color=brightgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/lukepyoungs/SpaceInvaders-Final?color=orange) ![GitHub stars](https://img.shields.io/github/stars/lukepyoungs/SpaceInvaders-Final?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/lukepyoungs/SpaceInvaders-Final-?color=brightgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/lukepyoungs/SpaceInvaders-Final-?color=orange) ![GitHub stars](https://img.shields.io/github/stars/lukepyoungs/SpaceInvaders-Final-?style=social)
 
 **Space Invaders - Final Project** is a recreation of the classic Space Invaders game developed as a final project for an Embedded Systems course. The project is implemented in C and Assembly, with HTML used for documentation and build logs.
 
